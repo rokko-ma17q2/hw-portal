@@ -1,0 +1,31 @@
+---
+output: github_document
+---
+
+
+# Macroeconomics (2017Q2) @ GSE, KobeU
+
+Homework Assignments and optional exercises for Macroeconomics Q2 @ GSEcon, Kobe University
+
+```{r, include=FALSE}
+library(tidyverse)
+data <- readr::read_csv("../assignments.csv")
+org <- "https://github.com/rokko-ma17q2/"
+```
+
+## Assignments
+
+```{r, echo=FALSE}
+pdata <- data %>% 
+  mutate(ID = paste0("[", ID, "](", org, ID ,")")) %>%
+  mutate(`Invitation Link` = paste0("[Get Invitation]", "(", Link, ")")) %>% 
+  select(-Link) %>%
+  arrange(Deadline, ID)
+knitr::kable(pdata)
+```
+
+## Submission record
+
+See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q2). 
+
+
