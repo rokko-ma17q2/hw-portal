@@ -11,6 +11,7 @@ Assignments
 |:---------------------------------------------|:--------------|:------------|:-------------------------------------------------------------------------------------------------------|
 | [hw01](https://github.com/rokko-ma17q2/hw01) | 6/14/17 18:00 | Setup       | [Get Invitation](https://classroom.github.com/assignment-invitations/6153a14960b7a92063c03cc85257cad9) |
 | [ex01](https://github.com/rokko-ma17q2/ex01) | 6/19/17 18:00 | Compounding | [Get Invitation](https://classroom.github.com/assignment-invitations/5dc00dcf6f1c61dcd964708a70dd7a02) |
+| [hw02](https://github.com/rokko-ma17q2/hw02) | 6/21/17 18:00 | PWT         | [Get Invitation](https://classroom.github.com/assignment-invitations/f27314c9171ca8f2d375d1fd30e6de2f) |
 
 Submission record
 -----------------
