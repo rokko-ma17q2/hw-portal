@@ -19,7 +19,7 @@ org <- "https://github.com/rokko-ma17q2/"
 pdata <- data %>% 
   mutate(ID = paste0("[", ID, "](", org, ID ,")")) %>%
   mutate(`Invitation Link` = paste0("[Get Invitation]", "(", Link, ")")) %>% 
-  select(-Link) %>%
+  select(ID, Deadline, Description, `Invitation Link`, Solution) %>%
   arrange(Deadline, ID)
 knitr::kable(pdata)
 ```
