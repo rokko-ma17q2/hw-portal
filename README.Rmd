@@ -20,7 +20,7 @@ pdata <- data %>%
   mutate(ID = paste0("[", ID, "](", org, ID ,")")) %>%
   mutate(`Invitation Link` = paste0("[Get Invitation]", "(", Link, ")")) %>% 
   select(ID, Deadline, Description, `Invitation Link`, Solution) %>%
-  arrange(Deadline, ID)
+  arrange(lubridate::mdy_hm(Deadline))
 knitr::kable(pdata)
 ```
 

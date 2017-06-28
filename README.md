@@ -16,6 +16,7 @@ Assignments
 | [ex03](https://github.com/rokko-ma17q2/ex03) | 6/28/17 18:00 | Simple regression | [Get Invitation](https://classroom.github.com/assignment-invitations/2c1bcea7968a82667302261fdff9b874) | NA                                                                 |
 | [hw03](https://github.com/rokko-ma17q2/hw03) | 7/2/17 18:00  | Convergence       | [Get Invitation](https://classroom.github.com/assignment-invitations/5835e43fb5f3dc55fc203613798224d4) | NA                                                                 |
 | [ex04](https://github.com/rokko-ma17q2/ex04) | 7/5/17 18:00  | Sketchin graphs   | [Get Invitation](https://classroom.github.com/assignment-invitations/57f53eabd666e1e1ed46d32d035a24ea) | NA                                                                 |
+| [mid](https://github.com/rokko-ma17q2/mid)   | 7/14/17 18:00 | Midterm           | [Get Invitation](https://classroom.github.com/assignment-invitations/6a170c914a8354a19f97cb6908bb8b57) | NA                                                                 |
 
 Submission record
 -----------------
